@@ -139,7 +139,9 @@ The Smart University Campus Network is designed to provide secure and organized 
 
 | Name | Roll No |
 |------|--------|
-| Your Name | Your Roll No |
+| Mrunali Devare | 24101B0032 |
+| Himanshu Choyal | 24101B0035 |
+| Sarthak Kane | 24101B0030 |
 
 ---
 
